@@ -1,0 +1,9 @@
+go 1.21.1
+
+use (
+	./fmt_lib
+	./go_funcs
+	./go_loops
+	./golang_ops
+	./hello_go
+)
