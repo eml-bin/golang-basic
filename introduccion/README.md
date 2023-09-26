@@ -17,3 +17,9 @@
 * 📂 bin. Guarda los ejecutables que vamos utilizando o creando en Go 
 * 📂 pkg. Guarda cierto código que depende de go-modules y dependencias
 * 📂 src. Código del aplicativo
+
+## Commands
+
+#### Para un proyecto fuera del GOPATH
+
+`go mod init <nombre_del_directorio_del_proyecto>`
