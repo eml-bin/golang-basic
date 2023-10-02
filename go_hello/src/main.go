@@ -32,4 +32,8 @@ func main() {
 	areaCuadrado := baseCuadrado * baseCuadrado
 
 	fmt.Println("Área de Cuadrado: ", areaCuadrado)
+
+	nueva_variable := 4
+	fmt.Println("nueva_variable", nueva_variable)
+
 }

@@ -11,7 +11,6 @@ func main() {
 	}
 
 	fmt.Printf("\n")
-
 	// `for` while
 	counter := 0
 	for counter < 10 {
